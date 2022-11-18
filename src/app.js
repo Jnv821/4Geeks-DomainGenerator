@@ -15,10 +15,6 @@ window.onload = function() {
 
   let name = "";
 
-  let a = "bob";
-  let b = "amazing";
-  let c = "flies";
-
   // Using for of*
   for (let pronoun of pronouns) {
     for (let adj of adjs) {
